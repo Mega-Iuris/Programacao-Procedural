@@ -4,7 +4,8 @@ class Program
     static void Main(string[] args)
     {
         Console.Write("Digite a quantidade de moedas de um centavo: ");
-        int centavos = int.Parse(Console.ReadLine());
+        
+        int centavos = toString32(Console.ReadLine());
 
         int reais = centavos / 100;
         int restoCentavos = centavos % 100;
