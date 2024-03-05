@@ -1,0 +1,15 @@
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio1\obj\Debug\net8.0\Excercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio1\obj\Debug\net8.0\Excercicio1.AssemblyInfoInputs.cache
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio1\obj\Debug\net8.0\Excercicio1.AssemblyInfo.cs
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio1\obj\Debug\net8.0\Excercicio1.csproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio1\obj\Debug\net8.0\Excercicio1.sourcelink.json
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio1\bin\Debug\net8.0\Excercicio1.exe
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio1\bin\Debug\net8.0\Excercicio1.deps.json
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio1\bin\Debug\net8.0\Excercicio1.runtimeconfig.json
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio1\bin\Debug\net8.0\Excercicio1.dll
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio1\bin\Debug\net8.0\Excercicio1.pdb
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio1\obj\Debug\net8.0\Excercicio1.dll
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio1\obj\Debug\net8.0\refint\Excercicio1.dll
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio1\obj\Debug\net8.0\Excercicio1.pdb
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio1\obj\Debug\net8.0\Excercicio1.genruntimeconfig.cache
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio1\obj\Debug\net8.0\ref\Excercicio1.dll

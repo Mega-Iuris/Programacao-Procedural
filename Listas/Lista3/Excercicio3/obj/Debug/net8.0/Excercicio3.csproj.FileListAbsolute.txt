@@ -1,0 +1,15 @@
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio3\bin\Debug\net8.0\Excercicio3.exe
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio3\bin\Debug\net8.0\Excercicio3.deps.json
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio3\bin\Debug\net8.0\Excercicio3.runtimeconfig.json
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio3\bin\Debug\net8.0\Excercicio3.dll
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio3\bin\Debug\net8.0\Excercicio3.pdb
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio3\obj\Debug\net8.0\Excercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio3\obj\Debug\net8.0\Excercicio3.AssemblyInfoInputs.cache
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio3\obj\Debug\net8.0\Excercicio3.AssemblyInfo.cs
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio3\obj\Debug\net8.0\Excercicio3.csproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio3\obj\Debug\net8.0\Excercicio3.sourcelink.json
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio3\obj\Debug\net8.0\Excercicio3.dll
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio3\obj\Debug\net8.0\refint\Excercicio3.dll
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio3\obj\Debug\net8.0\Excercicio3.pdb
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio3\obj\Debug\net8.0\Excercicio3.genruntimeconfig.cache
+C:\Users\josem\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\Lista3\Excercicio3\obj\Debug\net8.0\ref\Excercicio3.dll
