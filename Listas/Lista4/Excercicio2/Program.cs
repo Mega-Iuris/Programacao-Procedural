@@ -2,16 +2,26 @@
 
 class Program
 {
-    static void Main(string []args)
+    static void Main(string[] args)
     {
         int altura = 0;
+        bool alturaValida = false;
 
-        do
+        while (alturaValida == false)
         {
-            Console.Write($"Digite um valor entre (1 e 9): ");
+            Console.Write($"Digite um valor entre 1 e 9: ");
             altura = Convert.ToInt32(Console.ReadLine());
+
+            if (altura >= 1 && altura <= 9)
+            {
+                alturaValida = true;
+            }
+            else
+            {
+                Console.Write("altura invalida, insira uma altura entre 1 e 9: ");
+            }
+
         }
-        while(altura < 1 || altura > 9);
 
         for (int i = 1; i <= altura; i++)
         {
@@ -21,6 +31,6 @@ class Program
             }
             Console.WriteLine();
         }
+        
     }
-
 }
