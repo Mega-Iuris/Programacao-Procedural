@@ -1,0 +1,15 @@
+C:\Users\iuris.p.medeiros\Desktop\Programacao-Procedural\Listas\Lista5\Excercicio2\bin\Debug\net8.0\Excercicio2.exe
+C:\Users\iuris.p.medeiros\Desktop\Programacao-Procedural\Listas\Lista5\Excercicio2\bin\Debug\net8.0\Excercicio2.deps.json
+C:\Users\iuris.p.medeiros\Desktop\Programacao-Procedural\Listas\Lista5\Excercicio2\bin\Debug\net8.0\Excercicio2.runtimeconfig.json
+C:\Users\iuris.p.medeiros\Desktop\Programacao-Procedural\Listas\Lista5\Excercicio2\bin\Debug\net8.0\Excercicio2.dll
+C:\Users\iuris.p.medeiros\Desktop\Programacao-Procedural\Listas\Lista5\Excercicio2\bin\Debug\net8.0\Excercicio2.pdb
+C:\Users\iuris.p.medeiros\Desktop\Programacao-Procedural\Listas\Lista5\Excercicio2\obj\Debug\net8.0\Excercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iuris.p.medeiros\Desktop\Programacao-Procedural\Listas\Lista5\Excercicio2\obj\Debug\net8.0\Excercicio2.AssemblyInfoInputs.cache
+C:\Users\iuris.p.medeiros\Desktop\Programacao-Procedural\Listas\Lista5\Excercicio2\obj\Debug\net8.0\Excercicio2.AssemblyInfo.cs
+C:\Users\iuris.p.medeiros\Desktop\Programacao-Procedural\Listas\Lista5\Excercicio2\obj\Debug\net8.0\Excercicio2.csproj.CoreCompileInputs.cache
+C:\Users\iuris.p.medeiros\Desktop\Programacao-Procedural\Listas\Lista5\Excercicio2\obj\Debug\net8.0\Excercicio2.sourcelink.json
+C:\Users\iuris.p.medeiros\Desktop\Programacao-Procedural\Listas\Lista5\Excercicio2\obj\Debug\net8.0\Excercicio2.dll
+C:\Users\iuris.p.medeiros\Desktop\Programacao-Procedural\Listas\Lista5\Excercicio2\obj\Debug\net8.0\refint\Excercicio2.dll
+C:\Users\iuris.p.medeiros\Desktop\Programacao-Procedural\Listas\Lista5\Excercicio2\obj\Debug\net8.0\Excercicio2.pdb
+C:\Users\iuris.p.medeiros\Desktop\Programacao-Procedural\Listas\Lista5\Excercicio2\obj\Debug\net8.0\Excercicio2.genruntimeconfig.cache
+C:\Users\iuris.p.medeiros\Desktop\Programacao-Procedural\Listas\Lista5\Excercicio2\obj\Debug\net8.0\ref\Excercicio2.dll
